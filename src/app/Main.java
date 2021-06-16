@@ -1,4 +1,6 @@
-package cz.gjkt.zlomky;
+package app;
+
+import cz.gjkt.zlomky.Kostka;
 
 public class Main {
 
